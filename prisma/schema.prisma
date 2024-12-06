@@ -93,3 +93,5 @@ model Post {
   createdAt DateTime @default(now()) // Timestamp for when the post was created
   updatedAt DateTime @updatedAt // Timestamp for when the post was last updated
 }
+
+
